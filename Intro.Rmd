@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Translational Research for Policy : A UBI Case Study"
 author: "Béatrice Leydier"
 date: "3/25/2021"
 output: html_document
@@ -41,7 +41,9 @@ Not all UCTs are universal - they could be means-tested i.e only available to a 
 
 Many countries have conducted studies for at-scale experiments of UCTs in general and UBIs in particular.
 
-## Research Question
+# Methodology
+
+### Hypotheses
 
 I posit that better economic policy making could be achieved by:
 
@@ -49,3 +51,15 @@ I posit that better economic policy making could be achieved by:
 2.  creating feedback loops between each step of the economic research, allowing for policy results to more systematically inform new theories of change, economic models and areas of study
 
 I will use the example of Unconditional Cash Transers (UCT) and Universal Basic Income (UBI) studies as a test-case for these hypotheses, and develop a proposed Translational Research framework for economic policy.
+
+### Methods
+
+I will 
+
+- Build a database of existing UCT research, categorizing them into different stages of a classic translational framework
+- Summarize findings of UCT research by population type and UCT design to identify research opportunities
+- Summarize status of UCT policy applications to identify gaps between research findings and policy applications
+- Map actors of the UCT research field and perform network analysis to identify existing communities of practice and possible gaps in the feedback loops
+
+
+
