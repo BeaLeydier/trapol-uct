@@ -36,8 +36,6 @@
 
 #######################
 # Specific folders to ignore
-*/_background docs
-*/_wip
 
 #######################
 # The following file types are code that should always be
