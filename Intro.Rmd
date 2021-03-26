@@ -1,0 +1,51 @@
+---
+title: "Introduction"
+author: "Béatrice Leydier"
+date: "3/25/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+The **trapol** project series consist of applications of **TRA**nslational Research methods to **POL**icy areas. This project looks at unconditional cash transfers and universal basic income studies and how their results are or are not carried into policies, in order to identify gaps between research and policy, and infer a translational research framework that could be used to translate results of economic research into economic benefits.
+
+### Translational Research
+
+Translational Research is a medical discipline that defines frameworks for effectively translating laboratory research results into bed-side table treatments that can improve public health.
+
+Specific frameworks can differ, but the medical research workflow is generally modeled into five steps which feed into each other both ways through inference and feedback loops and communities of practice:
+
+1.  Fundamental Research
+2.  Pre-clinical Research
+3.  Clinical Research
+4.  Clinical Implementation
+5.  Public Implementation
+
+In economic policy, to my knowledge no framework has been formally established, but we could draw comparisons to the medical field by classifying existing research into these steps:
+
+1.  Economic models and theories of change
+2.  *(no pre-clinical research equivalent)*
+3.  RCTs, quasi experiments and macro empirical studies
+4.  Scale-ups, cost effectiveness and cost-benefit analyses, dissemination
+5.  Economic policy
+
+### Unconditional Cash Transfers
+
+Unconditional Cash Transfers are social protection tools that consist of giving recipients a certain cash amount with no strings attached - no requirement on how or when to spend it, no qualification on whether to receive it. They are opposed to Conditional cash Transfers which most social protection policies consist of, like Food Stamps (which can only be spent on food) or Unemployment Benefits (which usually come with the requirement of actively looking for work).
+
+Not all UCTs are universal - they could be means-tested i.e only available to a certain subset of the population identified as being particularly vulnerable. UBIs are a type of UCTs, which are universal.
+
+Many countries have conducted studies for at-scale experiments of UCTs in general and UBIs in particular.
+
+## Research Question
+
+I posit that better economic policy making could be achieved by:
+
+1.  formalizing the pre-clinical step of research which consists of identifying relevant target populations and study designs to perform experiments in, informed by the results (and lack thereof) of other studies at stages 3 and 4
+2.  creating feedback loops between each step of the economic research, allowing for policy results to more systematically inform new theories of change, economic models and areas of study
+
+I will use the example of Unconditional Cash Transers (UCT) and Universal Basic Income (UBI) studies as a test-case for these hypotheses, and develop a proposed Translational Research framework for economic policy.
